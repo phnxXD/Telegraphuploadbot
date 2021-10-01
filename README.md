@@ -6,7 +6,7 @@ An advanced simple small media or file to telegra.ph link uploader bot.
 
 ```
 Made with Python3
-(C) @FayasNoushad
+(C) @phnxXD
 Copyright permission under MIT License
 License -> https://github.com/phnxXD/Telegraphuploadbot/blob/main/LICENSE
 ```
